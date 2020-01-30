@@ -1,3 +1,7 @@
+This repository belongs to Shaina Lowenthal and contains weekly blogs written by Shaina Lowenthal for a course in Open Source software development.
+
+
+
 # About Your Jekyll-based Blog Hosted on GitHub Pages
 
 Jekyll is a simple, open-source, blog-aware, static site generator.
