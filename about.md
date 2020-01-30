@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+Hi! I am a Junior in the Macaulay Honors College at Hunter College, majoring in Computer Science and minoring in Religion. I am new to the world of Open Source and I am excited to contribute and learn more. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shainalowenthal/)!
 
